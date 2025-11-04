@@ -1,0 +1,171 @@
+type,,city,country,duration (min),price,dollar,payment type,app
+moto,03/21/2024,Medellín,Columbia,7,5240,COP,card,Uber
+moto,03/21/2024,Medellín,Columbia,8,5240,COP,card,Uber
+moto,04/02/2024,Bogotá,Columbia,15,5020,COP,card,Uber
+moto,04/02/2024,Bogotá,Columbia,17,11350,COP,card,Uber
+car,04/05/2024,Bogotá,Columbia,50,24970,COP,card,Uber
+car,04/13/2024,Cali,Columbia,4,11340,COP,card,Uber
+car,04/24/2024,Baños,Ecuador,3,1.44,USD,card,Uber
+car,06/25/2024,Cusco,Peru,11,8.7,PEN,card,Uber
+car,06/25/2024,Cusco,Peru,8,7.8,PEN,card,Uber
+car,06/30/2024,Arequipa,Peru,11,9.5,PEN,card,Uber
+car,07/01/2024,Arequipa,Peru,11,9.7,PEN,card,Uber
+tuktuk,07/02/2024,Puno,Peru,6,6,PEN,cash,inDrive
+car,07/06/2024,La Paz,Bolivia,15,20,BOB,cash,inDrive
+car,07/07/2024,La Paz,Bolivia,10,20,BOB,cash,inDrive
+car,07/07/2024,La Paz,Bolivia,12,34,BOB,cash,inDrive
+tuktuk,07/11/2024,Rurrenabaque,Bolivia,7,10,BOB,cash,inDrive
+car,07/25/2024,La Paz,Bolivia,8,12,BOB,cash,inDrive
+car,07/26/2024,La Paz,Bolivia,9,14,Uber,cash,inDrive
+car,07/27/2024,La Paz,Bolivia,6,12,BOB,cash,inDrive
+car,07/27/2024,Cochabamba,Bolivia,10,14,BOB,cash,inDrive
+car,07/28/2024,Cochabamba,Bolivia,8,7,BOB,cash,inDrive
+car,07/29/2024,Cochabamba,Bolivia,10,16,BOB,cash,inDrive
+car,07/31/2024,Cochabamba,Bolivia,10,20,BOB,cash,inDrive
+car,08/04/2024,Sucre,Bolivia,12,10,BOB,cash,inDrive
+car,08/11/2024,Santa Cruz de la Sierra,Bolivia,11,12,BOB,cash,inDrive
+car,08/11/2024,Santa Cruz de la Sierra,Bolivia,6,9,BOB,cash,inDrive
+car,08/13/2024,Santa Cruz de la Sierra,Bolivia,11,14,BOB,cash,inDrive
+car,08/14/2024,Porto Quijarro,Bolivia,10,10,BOB,cash,inDrive
+moto,08/20/2024,Campo Grande,Brasil,15,11.1,R,cash,Uber
+moto,08/21/2024,Campo Grande,Brasil,8,7.11,R,cash,Uber
+moto,08/21/2024,Campo Grande,Brasil,7,7.17,R,cash,Uber
+moto,08/21/2024,Campo Grande,Brasil,18,18.94,R,cash,Uber
+car,08/22/2024,Brasília,Brasil,19,26.93,R,cash,Uber
+car,08/23/2024,Brasília,Brasil,6,10.92,R,cash,Uber
+car,08/23/2024,Brasília,Brasil,9,13.91,R,cash,Uber
+car,08/24/2024,Brasília,Brasil,9,12.92,R,cash,Uber
+car,08/27/2024,Brasília,Brasil,5,10.99,R,cash,Uber
+car,08/28/2024,Brasília,Brasil,6,9.93,R,cash,Uber
+car,08/28/2024,Brasília,Brasil,15,19.93,R,cash,Uber
+car,08/29/2024,Brasília,Brasil,9,18.99,R,cash,Uber
+car,08/30/2024,Belém,Brasil,38,30.91,R,cash,Uber
+moto,08/30/2024,Belém,Brasil,3,6.46,R,cash,Uber
+moto,08/31/2024,Belém,Brasil,10,7.41,R,cash,Uber
+moto,08/31/2024,Belém,Brasil,3,9.27,R,cash,Uber
+moto,08/31/2024,Belém,Brasil,11,10.88,R,cash,Uber
+moto,08/31/2024,Belém,Brasil,7,6.61,R,cash,Uber
+moto,08/31/2024,Belém,Brasil,9,7.45,R,cash,Uber
+moto,09/01/2024,Belém,Brasil,5,5.52,R,cash,Uber
+moto,09/01/2024,Belém,Brasil,9,7.43,R,cash,Uber
+moto,09/03/2024,Belém,Brasil,8,8.49,R,cash,Uber
+moto,09/03/2024,Belém,Brasil,11,2.4,R,cash,99
+moto,09/13/2024,Fortaleza,Brasil,14,8.93,R,cash,Uber
+moto,09/14/2024,Fortaleza,Brasil,8,5.79,R,cash,Uber
+moto,09/14/2024,Fortaleza,Brasil,7,5.79,R,cash,Uber
+moto,09/15/2024,Fortaleza,Brasil,15,9.01,R,cash,Uber
+car,09/16/2024,Natal,Brasil,36,28.81,R,card,Uber
+moto,09/18/2024,Natal,Brasil,16,9.49,R,card,Uber
+moto,09/18/2024,Natal,Brasil,9,7.55,R,card,Uber
+moto,09/18/2024,Natal,Brasil,13,7.91,R,card,Uber
+moto,09/18/2024,Natal,Brasil,26,8.72,R,cash,99
+moto,09/18/2024,Natal,Brasil,41,21.9,R,cash,99
+car,09/19/2024,Natal,Brasil,20,17.98,R,card,Uber
+moto,09/23/2024,Recife,Brasil,32,16.82,R,card,Uber
+moto,09/24/2024,Recife,Brasil,16,7.83,R,card,Uber
+moto,09/24/2024,Recife,Brasil,14,10.14,R,card,Uber
+moto,09/24/2024,Recife,Brasil,11,7.31,R,card,Uber
+moto,09/24/2024,Recife,Brasil,7,5.17,R,card,Uber
+moto,09/24/2024,Recife,Brasil,5,5.37,R,card,Uber
+moto,09/24/2024,Recife,Brasil,17,9.78,R,card,Uber
+moto,09/24/2024,Recife,Brasil,10,5.81,R,card,Uber
+moto,09/24/2024,Recife,Brasil,15,5.76,R,cash,99
+moto,09/28/2024,Porto de Galinhas,Brasil,31,24,R,card,Uber
+car,10/04/2024,Salvador,Brasil,4,8.94,R,card,Uber
+moto,10/04/2024,Salvador,Brasil,11,5.9,R,cash,99
+moto,10/04/2024,Salvador,Brasil,6,8.8,R,cash,99
+car,10/05/2024,Salvador,Brasil,14,9.9,R,cash,99
+moto,10/06/2024,Salvador,Brasil,14,18.2,R,cash,99
+quad,10/13/2024,Ilha Boipeba,Brasil,20,30,R,cash,street
+quad,10/15/2024,Ilha Boipeba,Brasil,20,30,R,cash,street
+moto,10/25/2024,Porto Seguro,Brasil,5,4.7,R,cash,99
+moto,10/26/2024,Porto Seguro,Brasil,7,5,R,cash,99
+moto,10/27/2024,Porto Seguro,Brasil,6,7.2,R,cash,99
+moto,10/27/2024,Porto Seguro,Brasil,5,5,R,cash,99
+moto,10/28/2024,Porto Seguro,Brasil,6,4.7,R,cash,99
+moto,11/04/2024,Porto Seguro,Brasil,6,4.8,R,cash,99
+moto,11/04/2024,Porto Seguro,Brasil,7,5.4,R,cash,99
+moto,11/04/2024,Porto Seguro,Brasil,5,4.7,R,cash,99
+car,11/04/2024,Porto Seguro,Brasil,4,7.2,R,card,99
+car,11/04/2024,Porto Seguro,Brasil,4,8.2,R,card,99
+car,11/05/2024,Vitória,Brasil,11,18.4,R,card,99
+car,11/06/2024,Vitória,Brasil,7,10.42,R,card,Uber
+moto,11/06/2024,Vitória,Brasil,8,6.1,R,card,99
+moto,11/06/2024,Vitória,Brasil,7,6.9,R,card,99
+moto,11/06/2024,Vitória,Brasil,9,8.5,R,card,99
+car,11/06/2024,Vitória,Brasil,28,27.17,R,card,Uber
+moto,11/06/2024,Vitória,Brasil,12,7.5,R,card,Uber
+car,11/07/2024,Vitória,Brasil,17,23.1,R,card,99
+moto,11/07/2024,Belo Horizonte,Brasil,7,8.5,R,card,99
+moto,11/10/2024,Belo Horizonte,Brasil,6,4.8,R,card,99
+moto,11/10/2024,Belo Horizonte,Brasil,17,16.1,R,card,99
+moto,11/10/2024,Belo Horizonte,Brasil,21,12.33,R,card,99
+moto,11/11/2024,Belo Horizonte,Brasil,8,7.4,R,card,99
+moto,11/11/2024,Belo Horizonte,Brasil,7,6.7,R,card,99
+moto,11/12/2024,Belo Horizonte,Brasil,9,4.8,R,card,99
+moto,11/12/2024,Belo Horizonte,Brasil,7,3.88,R,card,Uber
+moto,11/12/2024,Belo Horizonte,Brasil,12,5.8,R,card,99
+moto,11/14/2024,Belo Horizonte,Brasil,4,4.8,R,card,99
+moto,11/14/2024,Belo Horizonte,Brasil,8,9.7,R,card,99
+moto,11/16/2024,Belo Horizonte,Brasil,12,5.8,R,card,99
+moto,11/20/2024,Belo Horizonte,Brasil,7,4.8,R,card,99
+moto,11/20/2024,Belo Horizonte,Brasil,8,8.5,R,card,99
+moto,11/21/2024,Rio de Janeiro,Brasil,10,5.3,R,card,99
+moto,11/21/2024,Rio de Janeiro,Brasil,9,5,R,card,99
+moto,11/21/2024,Rio de Janeiro,Brasil,5,7.6,R,card,99
+car,11/21/2024,Rio de Janeiro,Brasil,3,12.8,R,card,99
+moto,11/21/2024,Rio de Janeiro,Brasil,7,9.65,R,card,Uber
+moto,11/21/2024,Rio de Janeiro,Brasil,11,6.57,R,card,Uber
+moto,11/22/2024,Rio de Janeiro,Brasil,10,6.5,R,card,99
+moto,11/22/2024,Rio de Janeiro,Brasil,10,7.27,R,card,Uber
+moto,11/22/2024,Rio de Janeiro,Brasil,6,4.19,R,card,Uber
+moto,11/23/2024,Rio de Janeiro,Brasil,5,5,R,card,99
+moto,11/23/2024,Rio de Janeiro,Brasil,7,6.03,R,card,Uber
+moto,11/24/2024,Rio de Janeiro,Brasil,10,15.05,R,card,99
+car,11/24/2024,Rio de Janeiro,Brasil,31,26.6,R,card,99
+car,11/25/2024,Rio de Janeiro,Brasil,12,14.7,R,card,99
+moto,11/25/2024,Rio de Janeiro,Brasil,8,5.3,R,card,99
+moto,11/25/2024,Rio de Janeiro,Brasil,13,5.5,R,card,99
+moto,11/25/2024,Rio de Janeiro,Brasil,11,6.2,R,card,99
+moto,11/26/2024,Rio de Janeiro,Brasil,20,25.02,R,card,Uber
+moto,11/26/2024,Rio de Janeiro,Brasil,17,16.6,R,card,99
+moto,12/01/2024,Rio de Janeiro,Brasil,44,52.04,R,card,Uber
+moto,12/05/2024,Rio de Janeiro,Brasil,58,52.36,R,card,Uber
+moto,12/06/2024,Belo Horizonte,Brasil,7,5.2,R,card,99
+moto,12/07/2024,Belo Horizonte,Brasil,9,6.33,R,card,Uber
+moto,12/07/2024,Belo Horizonte,Brasil,14,7.3,R,card,99
+moto,12/07/2024,Belo Horizonte,Brasil,8,6.94,R,card,Uber
+moto,12/07/2024,Belo Horizonte,Brasil,9,7.8,R,card,99
+moto,12/08/2024,Belo Horizonte,Brasil,4,7.6,R,card,99
+car,12/08/2024,São Paulo,Brasil,5,11.92,R,card,Uber
+car,12/09/2024,São Paulo,Brasil,11,16.8,R,card,99
+car,12/09/2024,São Paulo,Brasil,24,26.54,R,card,Uber
+car,12/10/2024,São Paulo,Brasil,30,41.43,R,card,Uber
+car,12/11/2024,São Paulo,Brasil,32,30.9,R,card,99
+moto,12/14/2024,Rio de Janeiro,Brasil,22,13.2,R,card,99
+moto,12/14/2024,Rio de Janeiro,Brasil,13,14.6,R,card,99
+moto,12/14/2024,Rio de Janeiro,Brasil,17,15.6,R,card,99
+moto,12/15/2024,Rio de Janeiro,Brasil,24,11.5,R,card,99
+moto,12/15/2024,Rio de Janeiro,Brasil,10,12.9,R,card,99
+moto,12/16/2024,Rio de Janeiro,Brasil,16,14.96,R,card,Uber
+moto,12/16/2024,Rio de Janeiro,Brasil,15,13.5,R,card,99
+moto,12/16/2024,Rio de Janeiro,Brasil,17,11.52,R,card,99
+moto,12/17/2024,Rio de Janeiro,Brasil,14,14.88,R,card,Uber
+moto,12/17/2024,Rio de Janeiro,Brasil,23,20,R,cash,99
+moto,12/17/2024,Rio de Janeiro,Brasil,25,12,R,cash,99
+moto,12/17/2024,Rio de Janeiro,Brasil,13,7,R,cash,99
+moto,12/18/2024,Rio de Janeiro,Brasil,9,11.35,R,card,Uber
+moto,12/18/2024,Rio de Janeiro,Brasil,18,12,R,cash,99
+moto,12/18/2024,Rio de Janeiro,Brasil,22,17,R,cash,99
+moto,02/15/2025,Guatemala City,Guatemala,6,18,Q,card,Uber
+moto,02/16/2025,Guatemala City,Guatemala,20,17.5,Q,card,Uber
+moto,04/02/2025,San Salvador,El Salvador,16,3,USD,cash,inDrive
+moto,04/15/2025,San Salvador,El Salvador,8,1.6,USD,cash,inDrive
+moto,07/14/2025,Blantyre ,Malawi,10,3000,MK,cash,street
+moto,07/14/2025,Blantyre,Malawi,13,2000,MK,cash,street
+moto,07/15/2025,Mulanje,Malawi,22,5000,MK,cash,street
+moto,07/19/2025,Zomba,Malawi,19,7000,MK,cash,street
+moto,07/23/2025,Monkey Bay,Malawi,40,5000,MK,cash,street
+moto,07/23/2025,Monkey Bay,Malawi,40,5000,MK,cash,street
+moto,07/25/2025,Monkey Bay,Malawi,40,7000,MK,cash,street
+moto,08/06/2025,Maputo,Mozambique,12,90,MT,cash,yango

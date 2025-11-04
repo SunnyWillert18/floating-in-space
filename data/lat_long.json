@@ -1,0 +1,494 @@
+{
+    "Colombia": {
+        "Bogotá": {
+            "lat": 4.711,
+            "lon": -74.0721
+        },
+        "Cali": {
+            "lat": 3.4516,
+            "lon": -76.532
+        },
+        "Cartagena": {
+            "lat": 10.391,
+            "lon": -75.4794
+        },
+        "Guatapé": {
+            "lat": 6.2333,
+            "lon": -75.1622
+        },
+        "Ipiales": {
+            "lat": 0.8303,
+            "lon": -77.6444
+        },
+        "Jardin": {
+            "lat": 5.5989,
+            "lon": -75.8197
+        },
+        "Manizales": {
+            "lat": 5.0703,
+            "lon": -75.5138
+        },
+        "Medellín": {
+            "lat": 6.2442,
+            "lon": -75.5812
+        },
+        "Salento": {
+            "lat": 4.637,
+            "lon": -75.57
+        },
+        "San Agustín": {
+            "lat": 1.8781,
+            "lon": -76.2684
+        },
+        "Santa Marta": {
+            "lat": 11.2408,
+            "lon": -74.199
+        },
+        "Taganga": {
+            "lat": 11.2803,
+            "lon": -74.1925
+        },
+        "Tayrona": {
+            "lat": 11.3167,
+            "lon": -74.0833
+        },
+        "Villa de Leyva": {
+            "lat": 5.6341,
+            "lon": -73.5244
+        },
+        "Zipaquirá": {
+            "lat": 5.0221,
+            "lon": -74.0048
+        }
+    },
+    "Ecuador": {
+        "Baños": {
+            "lat": -1.3967,
+            "lon": -78.4233
+        },
+        "Cotopaxi": {
+            "lat": -0.6808,
+            "lon": -78.437
+        },
+        "Cuenca": {
+            "lat": -2.9006,
+            "lon": -79.0045
+        },
+        "Isabela": {
+            "lat": -0.8272,
+            "lon": -91.0086
+        },
+        "Mindo": {
+            "lat": -0.0553,
+            "lon": -78.7767
+        },
+        "Quito": {
+            "lat": -0.1807,
+            "lon": -78.4678
+        },
+        "San Cristobal": {
+            "lat": -0.9109,
+            "lon": -89.6102
+        },
+        "Santa Cruz": {
+            "lat": -0.6212,
+            "lon": -90.356
+        }
+    },
+    "Peru": {
+        "Aguas Calientes": {
+            "lat": -13.1588,
+            "lon": -72.525
+        },
+        "Arequipa": {
+            "lat": -16.409,
+            "lon": -71.5375
+        },
+        "Cusco": {
+            "lat": -13.5319,
+            "lon": -71.9675
+        },
+        "Huacachina": {
+            "lat": -14.0875,
+            "lon": -75.7633
+        },
+        "Huanchaco": {
+            "lat": -8.0863,
+            "lon": -79.1217
+        },
+        "Huaraz": {
+            "lat": -9.5278,
+            "lon": -77.5278
+        },
+        "Mancora": {
+            "lat": -4.1078,
+            "lon": -81.0478
+        },
+        "Nazca": {
+            "lat": -14.8301,
+            "lon": -74.9389
+        },
+        "Puno": {
+            "lat": -15.8402,
+            "lon": -70.0219
+        },
+        "Trujillo": {
+            "lat": -8.115,
+            "lon": -79.029
+        }
+    },
+    "Bolivia": {
+        "La Paz": {
+            "lat": -16.4897,
+            "lon": -68.1193
+        },
+        "Potosi": {
+            "lat": -19.5836,
+            "lon": -65.7531
+        },
+        "Rurrenabaque": {
+            "lat": -14.4413,
+            "lon": -67.5277
+        },
+        "Samaipata": {
+            "lat": -18.1795,
+            "lon": -63.8753
+        },
+        "Sucre": {
+            "lat": -19.0196,
+            "lon": -65.2619
+        },
+        "Toro Toro": {
+            "lat": -18.132,
+            "lon": -65.768
+        },
+        "Uyuni": {
+            "lat": -20.4604,
+            "lon": -66.826
+        }
+    },
+    "Brasil": {
+        "Arraial do Cabo": {
+            "lat": -22.9671,
+            "lon": -42.0279
+        },
+        "Barreirinhas": {
+            "lat": -2.7469,
+            "lon": -42.8239
+        },
+        "Belem": {
+            "lat": -1.4558,
+            "lon": -48.4902
+        },
+        "Belo Horizonte": {
+            "lat": -19.9167,
+            "lon": -43.9345
+        },
+        "Brasília": {
+            "lat": -15.7939,
+            "lon": -47.8828
+        },
+        "Campo Grande": {
+            "lat": -20.4697,
+            "lon": -54.6201
+        },
+        "Capitólio": {
+            "lat": -20.6167,
+            "lon": -46.0497
+        },
+        "Caraiva": {
+            "lat": -16.8003,
+            "lon": -39.1331
+        },
+        "Fortaleza": {
+            "lat": -3.7172,
+            "lon": -38.5433
+        },
+        "Ilha grande": {
+            "lat": -23.1339,
+            "lon": -44.1728
+        },
+        "Itacaré": {
+            "lat": -14.2781,
+            "lon": -38.9958
+        },
+        "Jericoacoara": {
+            "lat": -2.796,
+            "lon": -40.5126
+        },
+        "Lençóis": {
+            "lat": -12.5622,
+            "lon": -41.3914
+        },
+        "Moreré": {
+            "lat": -13.5983,
+            "lon": -38.9144
+        },
+        "Morro Branco": {
+            "lat": -4.5348,
+            "lon": -37.7165
+        },
+        "Paraty": {
+            "lat": -23.217,
+            "lon": -44.7136
+        },
+        "Pipa": {
+            "lat": -6.2308,
+            "lon": -35.047
+        },
+        "Porto Seguro": {
+            "lat": -16.4435,
+            "lon": -39.0643
+        },
+        "Recreio": {
+            "lat": -22.9677,
+            "lon": -43.4124
+        },
+        "Rio de Janeiro": {
+            "lat": -22.9068,
+            "lon": -43.1729
+        },
+        "São Paulo": {
+            "lat": -23.5505,
+            "lon": -46.6333
+        },
+        "Trancoso": {
+            "lat": -16.5896,
+            "lon": -39.0946
+        }
+    },
+    "Guatemala": {
+        "Chichicastenango": {
+            "lat": 14.8385,
+            "lon": -91.1365
+        },
+        "Lanquin": {
+            "lat": 15.6758,
+            "lon": -89.8891
+        },
+        "San Pedro de la laguna": {
+            "lat": 14.762,
+            "lon": -91.1653
+        },
+        "Santa Cruz de la laguna": {
+            "lat": 14.7771,
+            "lon": -91.189
+        }
+    },
+    "Honduras": {
+        "Utila": {
+            "lat": 16.095,
+            "lon": -86.878
+        }
+    },
+    "Nicaragua": {
+        "El Transito": {
+            "lat": 11.8136,
+            "lon": -85.7983
+        },
+        "Gigante": {
+            "lat": 11.7065,
+            "lon": -85.7654
+        },
+        "Granada": {
+            "lat": 11.93,
+            "lon": -85.9561
+        },
+        "León": {
+            "lat": 12.4379,
+            "lon": -86.8781
+        },
+        "Ometepe": {
+            "lat": 11.5232,
+            "lon": -85.5115
+        }
+    },
+    "El Salvador": {
+        "Apaneca": {
+            "lat": 13.8833,
+            "lon": -89.5833
+        },
+        "El Zonte": {
+            "lat": 13.3575,
+            "lon": -89.2964
+        },
+        "Juayúa": {
+            "lat": 13.8831,
+            "lon": -89.6662
+        },
+        "La Unión": {
+            "lat": 13.3406,
+            "lon": -87.8417
+        },
+        "Nahuizalco": {
+            "lat": 13.7553,
+            "lon": -89.6417
+        },
+        "San Salvador": {
+            "lat": 13.6929,
+            "lon": -89.2182
+        }
+    },
+    "South Africa": {
+        "Addo": {
+            "lat": -33.4525,
+            "lon": 25.7425
+        },
+        "Ballito": {
+            "lat": -29.545,
+            "lon": 31.2297
+        },
+        "Betty's Bay": {
+            "lat": -34.35,
+            "lon": 18.9283
+        },
+        "Bojaneni": {
+            "lat": -28.6865,
+            "lon": 28.9762
+        },
+        "Cape Town": {
+            "lat": -33.9249,
+            "lon": 18.4241
+        },
+        "Cintsa": {
+            "lat": -32.0325,
+            "lon": 28.6
+        },
+        "Clarens": {
+            "lat": -28.4667,
+            "lon": 28.6333
+        },
+        "George": {
+            "lat": -33.9646,
+            "lon": 22.461
+        },
+        "Graskop": {
+            "lat": -24.9636,
+            "lon": 30.8513
+        },
+        "Hluhluwe": {
+            "lat": -28.0175,
+            "lon": 32.0
+        },
+        "Injisuthi": {
+            "lat": -28.9,
+            "lon": 29.2
+        },
+        "Jefferys Bay": {
+            "lat": -34.05,
+            "lon": 24.9167
+        },
+        "Kleinbaai": {
+            "lat": -34.2061,
+            "lon": 19.3603
+        },
+        "Kruger": {
+            "lat": -24.0,
+            "lon": 31.5
+        },
+        "Mosselbaai": {
+            "lat": -34.1833,
+            "lon": 22.1333
+        },
+        "Muizenberg": {
+            "lat": -34.1058,
+            "lon": 18.4639
+        },
+        "Plettenberg": {
+            "lat": -34.0536,
+            "lon": 23.37
+        },
+        "Pretoria": {
+            "lat": -25.7479,
+            "lon": 28.2293
+        },
+        "Simons Town": {
+            "lat": -34.1878,
+            "lon": 18.4456
+        },
+        "Sodwana Bay": {
+            "lat": -27.5122,
+            "lon": 32.6586
+        },
+        "St Lucia": {
+            "lat": -28.2667,
+            "lon": 32.4167
+        },
+        "Stormsrivier": {
+            "lat": -34.0333,
+            "lon": 23.7833
+        },
+        "Umkomaas": {
+            "lat": -30.1333,
+            "lon": 30.7667
+        },
+        "Wilderness": {
+            "lat": -33.9833,
+            "lon": 23.5167
+        }
+    },
+    "Malawi": {
+        "Cape Maclear": {
+            "lat": -14.0364,
+            "lon": 34.7922
+        },
+        "Lake Malawi": {
+            "lat": -11.83,
+            "lon": 34.3
+        },
+        "Likhubula": {
+            "lat": -14.0025,
+            "lon": 34.8311
+        },
+        "Zomba": {
+            "lat": -15.3861,
+            "lon": 35.3286
+        }
+    },
+    "Mozambique": {
+        "Maputo": {
+            "lat": -25.9692,
+            "lon": 32.5732
+        },
+        "Ponta do Ouro": {
+            "lat": -26.8572,
+            "lon": 32.9689
+        },
+        "Tofo": {
+            "lat": -23.855,
+            "lon": 35.5375
+        },
+        "Vilankulos": {
+            "lat": -22.0036,
+            "lon": 35.3167
+        }
+    },
+    "Eswatini": {
+        "Hlane": {
+            "lat": -26.155,
+            "lon": 31.995
+        },
+        "Lobamba": {
+            "lat": -26.5225,
+            "lon": 31.32
+        },
+        "Ludzidzini": {
+            "lat": -26.5042,
+            "lon": 31.3486
+        },
+        "Mbuluzi": {
+            "lat": -26.2967,
+            "lon": 31.36
+        }
+    },
+    "Lesotho": {
+        "Sani Pass": {
+            "lat": -29.6047,
+            "lon": 29.4531
+        },
+        "Semonkong": {
+            "lat": -29.9333,
+            "lon": 28.5667
+        }
+    }
+}

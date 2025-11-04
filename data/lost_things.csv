@@ -1,0 +1,25 @@
+item,type,reason,city,country,month,approx_cost
+sunglasses,accessories,broken,Uvita,Costa Rica,01/2024,20
+towel,accessories,lost,Manizales,Colombia,03/2024,15
+bikini,clothing,lost,Manizales,Colombia,03/2024,50
+sunglasses,accessories,lost,Villa de Leyva,Colombia,04/2024,20
+hiking pants,clothing,ripped,Huarez,Peru,05/2024,5
+hiking pants,clothing,ripped,Lima,Peru,06/2024,5
+phone,technology,stolen,La Paz,Bolivia,07/2024,350
+hiking pants,clothing,ripped,La Paz,Bolivia,07/2024,5
+white pants,clothing,left,Rurrenabaque,Bolivia,07/2024,1
+white shirt,clothing,left,Rurrenabaque,Bolivia,07/2024,1
+pants,clothing,left,Cochabamba,Bolivia,07/2024,5
+hiking pants,clothing,ripped,Sucre,Bolivia,08/2024,1
+sweater,clothing,left,Santa Cruz,Bolivia,08/2024,15
+gloves,accessories,left,Santa Cruz,Bolivia,08/2024,5
+socks,clothing,left,Santa Cruz,Bolivia,08/2024,5
+travel pillow,gear,lost,Brasilia,Brazil,08/2024,25
+sunglasses,accessories,lost,Belem,Brazil,09/2024,10
+phone charger,technology,lost,Lençóis,Brazil,10/2024,10
+sunglasses,accessories,broken,Rio de Janeiro,Brazil,12/2024,10
+surfboard,sport,broken,El Transito,Nicaragua,03/2025,70
+tire,car,broken,Hluhluwe,South Africa,06/2025,95
+phone adaptor,technology,lost,Kruger,South Africa,07/2025,5
+plug adaptor,technology,lost,Vilankulos,Mozambique,08/2025,5
+trail runners,shoes,lost,Pretoria,South Africa,09/2025,120

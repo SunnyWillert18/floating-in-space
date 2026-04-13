@@ -1,4 +1,5 @@
  ,Account,Category,Subcategory,Note,CAD,Income/Expense,Description,Amount,Currency,Account
+09/25/2025 15:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 09/25/2025 0:08:37,Card,Other,,Sending Rochelle's batteries,6.69,Expense,,90,ZAR,6.69
 09/25/2025 0:08:27,Card,🍜 Food,,Panini,2.6,Expense,,35,ZAR,2.6
 09/24/2025 15:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -311,7 +312,7 @@
 07/29/2025 9:56:37,Cash,🚖 Transport,,Moto to bus,2.63,Expense,,8000,BMK,2.63
 07/29/2025 6:30:09,Cash,🪑 Household,,Airtel fee,0.53,Expense,,1600,BMK,0.53
 07/29/2025 5:13:54,Cash,🪑 Household,,Airtel fees,0.25,Expense,,750,BMK,0.25
-07/29/2025 5:10:21,Cash,🏠 Accommodation,,Crown lodge single,3.95,Expense,,12000,BMK,3.95
+07/29/2025 5:10:21,Cash,🏠 Accommodation,,Crown lodge single room,3.95,Expense,,12000,BMK,3.95
 07/29/2025 5:08:13,Cash,🚖 Transport,,Bike taxi,0.99,Expense,,3000,BMK,0.99
 07/29/2025 20:40:58,Cash,🚖 Transport,,Bus to lilongwe,16.45,Expense,,50000,BMK,16.45
 07/28/2025 15:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -422,7 +423,7 @@
 07/14/2025 8:41:46,Cash,🚖 Transport,,Mototaxi,1.58,Expense,,2000,MK,1.58
 07/14/2025 8:41:46,Card,🍜 Food,,Malawian beef stew with nsima,9.48,Expense,,12000,MK,9.48
 07/14/2025 8:22:10,Card,Other,,ATM fees,10,Expense,,10,MK,10
-07/14/2025 7:23:21,Card,🏠 Accommodation,,Blantyre baobab backpackers,15.8,Expense,,20000,MK,15.8
+07/14/2025 7:23:21,Card,🏠 Accommodation,,Blantyre baobab backpackers dorm,15.8,Expense,,20000,MK,15.8
 07/14/2025 7:23:04,Card,👬🏻 Social Life,,Sim card + 7Gb,6.2,Expense,,7850,MK,6.2
 07/14/2025 7:22:44,Card,🚖 Transport,,Mini bus from airport,1.58,Expense,,2000,MK,1.58
 07/14/2025 7:18:34,Card,🚖 Transport,,Mototaxi,2.37,Expense,,3000,MK,2.37
@@ -526,7 +527,7 @@
 06/27/2025 10:24:25,Card,🍜 Food,,Groceries,18.58,Expense,,250,ZAR,18.58
 06/27/2025 10:24:04,Card,🍜 Food,,Biltong,10.4,Expense,,140,ZAR,10.4
 06/27/2025 10:23:44,Card,💄 Beauty,,Replacement peircing,7.43,Expense,,100,ZAR,7.43
-06/27/2025 10:23:19,Card,🏠 Accommodation,,B hive room,22.29,Expense,,300,ZAR,22.29
+06/27/2025 10:23:19,Card,🏠 Accommodation,,B hive private room,22.29,Expense,,300,ZAR,22.29
 06/27/2025 10:22:57,Card,🎁 Gift,,Sticker clarens,1.11,Expense,,15,ZAR,1.11
 06/27/2025 10:22:47,Card,🧥 Apparel,,Print pants,40.87,Expense,,550,ZAR,40.87
 06/27/2025 10:22:36,Card,🧥 Apparel,,Print shorts,26.01,Expense,,350,ZAR,26.01
@@ -628,11 +629,11 @@
 06/12/2025 13:59:52,Card,🍜 Food,,Icecream,2.38,Expense,,32,ZAR,2.38
 06/12/2025 13:30:03,Cash,🎁 Gift,,Carved gourd,3.72,Expense,,50,ZAR,3.72
 06/12/2025 13:29:51,Card,🍜 Food,,Groceries,15.46,Expense,,208,ZAR,15.46
-06/12/2025 2:38:27,Card,🏠 Accommodation,,Glamping dorm st lucia,20.06,Expense,,270,ZAR,20.06
+06/12/2025 2:38:27,Card,🏠 Accommodation,,Dorm st lucia,20.06,Expense,,270,ZAR,20.06
 06/11/2025 15:00:00,Card,🤑 Allowance,,Additional South Africa Budget,20,Income,,20,CAD,20
 06/11/2025 15:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 06/11/2025 13:28:32,Card,🍜 Food,,Icecreams,4.31,Expense,,58,ZAR,4.31
-06/11/2025 7:19:29,Card,🏠 Accommodation,,Glamping dorm st lucia,20.06,Expense,,270,ZAR,20.06
+06/11/2025 7:19:29,Card,🏠 Accommodation,,Dorm st lucia,20.06,Expense,,270,ZAR,20.06
 06/11/2025 7:19:05,Card,🌎 Adventure,,ISimangaliso entrance fee,15.68,Expense,,211,ZAR,15.68
 06/11/2025 7:18:54,Card,🍜 Food,,Mince pie,2.97,Expense,,40,ZAR,2.97
 06/10/2025 15:00:00,Card,🤑 Allowance,,Additional South Africa Budget,20,Income,,20,CAD,20
@@ -640,7 +641,7 @@
 06/10/2025 9:49:53,Card,🍜 Food,,"Pap, Sheba and kaiing",8.55,Expense,,115,ZAR,8.55
 06/10/2025 8:00:57,Cash,🌎 Adventure,,Boat tip,1.49,Expense,,20,ZAR,1.49
 06/10/2025 8:00:44,Cash,🖼 Culture,,Zulu Dancer tip,1.49,Expense,,20,ZAR,1.49
-06/10/2025 7:23:25,Card,🏠 Accommodation,,Glamping dorm st lucia,20.06,Expense,,270,ZAR,20.06
+06/10/2025 7:23:25,Card,🏠 Accommodation,,Dorm st lucia,20.06,Expense,,270,ZAR,20.06
 06/10/2025 5:13:29,Cash,🎁 Gift,,Warthog gourd,3.72,Expense,,50,ZAR,3.72
 06/10/2025 5:13:18,Card,🍜 Food,,Snacks,7.43,Expense,,100,ZAR,7.43
 06/10/2025 0:33:17,Card,🌎 Adventure,,Hippo and croc boat tour,22.29,Expense,,300,ZAR,22.29
@@ -653,7 +654,7 @@
 06/09/2025 8:38:26,Card,🍜 Food,,Fruit,4.31,Expense,,58,ZAR,4.31
 06/09/2025 8:37:32,Card,🧵 Crafting,,Fishing wire,3.72,Expense,,50,ZAR,3.72
 06/09/2025 8:37:17,Card,👬🏻 Social Life,,Phone plan,11.07,Expense,,149,ZAR,11.07
-06/09/2025 7:23:12,Card,🏠 Accommodation,,Glamping dorm st lucia,20.06,Expense,,270,ZAR,20.06
+06/09/2025 7:23:12,Card,🏠 Accommodation,,Dorm st lucia,20.06,Expense,,270,ZAR,20.06
 06/08/2025 15:00:00,Card,🤑 Allowance,,Additional South Africa Budget,20,Income,,20,CAD,20
 06/09/2025 15:00:00,Card,🍜 Food,,Droewors and biltong,18.28,Expense,,246,ZAR,18.28
 06/08/2025 15:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -891,7 +892,7 @@
 04/11/2025 19:42:01,Card,👬🏻 Social Life,,2 beer cans,3.9,Expense,,2.7,USD,3.9
 04/11/2025 16:43:05,Cash,🍜 Food,,Chicken almuerzo,4.69,Expense,,3.25,USD,4.69
 04/11/2025 16:42:55,Cash,🍜 Food,,Gatorade,1.8,Expense,,1.25,USD,1.8
-04/11/2025 16:09:42,Cash,🏠 Accommodation,,Pelícano surf camp,21.3,Expense,,14.75,USD,21.3
+04/11/2025 16:09:42,Cash,🏠 Accommodation,,Pelícano surf camp dorm,21.3,Expense,,14.75,USD,21.3
 04/11/2025 23:27:03,Cash,👬🏻 Social Life,,Bar entrance,7.22,Expense,,5,USD,7.22
 04/11/2025 23:26:25,Cash,👬🏻 Social Life,,Toña,2.89,Expense,,2,USD,2.89
 04/10/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -899,7 +900,7 @@
 04/10/2025 18:07:31,Cash,🍜 Food,,Icecream,0.72,Expense,,0.5,USD,0.72
 04/10/2025 18:07:13,Cash,🍜 Food,,Typico desayunos,5.05,Expense,,3.5,USD,5.05
 04/10/2025 18:07:05,Cash,🍜 Food,,Water gallon,1.44,Expense,,1,USD,1.44
-04/10/2025 9:08:31,Cash,🏠 Accommodation,,Pelícano surf camp,21.3,Expense,,14.75,USD,21.3
+04/10/2025 9:08:31,Cash,🏠 Accommodation,,Pelícano surf camp dorm,21.3,Expense,,14.75,USD,21.3
 04/09/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 04/09/2025 19:18:40,Cash,🍜 Food,,Pupusas,5.05,Expense,,3.5,USD,5.05
 04/09/2025 12:29:34,Card,🍜 Food,,Grocery split,4.33,Expense,,3,USD,4.33
@@ -971,7 +972,7 @@
 03/31/2025 21:21:30,Cash,🍜 Food,,Veggie tacos and yucca!,7.45,Expense,,190,NIO,7.45
 03/31/2025 21:21:03,Cash,💄 Beauty,,Floss and ear tips,7.05,Expense,,180,NIO,7.05
 03/31/2025 14:43:01,Cash,🍜 Food,,Mcflurry,3.92,Expense,,100,NIO,3.92
-03/31/2025 13:00:38,Cash,🏠 Accommodation,,Wabi sabi,18.77,Expense,,13,USD,18.77
+03/31/2025 13:00:38,Cash,🏠 Accommodation,,Wabi sabi dorm,18.77,Expense,,13,USD,18.77
 03/31/2025 12:49:43,Cash,🍜 Food,,3 eggs,0.71,Expense,,18,NIO,0.71
 03/31/2025 11:40:51,Cash,🖼 Culture,,Alejandro's walking tour,15.68,Expense,,400,NIO,15.68
 03/30/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -981,20 +982,20 @@
 03/30/2025 15:21:46,Cash,🍜 Food,,Lunch and snacks,4.12,Expense,,105,NIO,4.12
 03/30/2025 12:49:36,Cash,🍜 Food,,3 eggs,0.71,Expense,,18,NIO,0.71
 03/30/2025 7:10:14,Cash,🍜 Food,,3 egg lunch,0.71,Expense,,18,NIO,0.71
-03/30/2025 7:09:43,Cash,🏠 Accommodation,,Solid surf,14.44,Expense,,10,USD,14.44
+03/30/2025 7:09:43,Cash,🏠 Accommodation,,Solid surf dorm,14.44,Expense,,10,USD,14.44
 03/29/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 03/29/2025 23:00:00,Card,🤑 Allowance,,Budget equalizer central america,10,Income,,10,CAD,10
 03/29/2025 13:18:49,Cash,🍜 Food,,3 egg breaky + ramen,1.95,Expense,,50,NIO,1.95
 03/29/2025 12:48:38,Cash,🍜 Food,,2 dipped icream sandos,2.35,Expense,,60,NIO,2.35
 03/29/2025 12:48:28,Cash,🍜 Food,,Muffin,1.8,Expense,,46,NIO,1.8
 03/29/2025 12:41:19,Card,🖼 Culture,,Broken fucking surfboard,72.19,Expense,,50,USD,72.19
-03/29/2025 11:01:24,Cash,🏠 Accommodation,,Solid surf,14.44,Expense,,10,USD,14.44
+03/29/2025 11:01:24,Cash,🏠 Accommodation,,Solid surf dorm,14.44,Expense,,10,USD,14.44
 03/29/2025 9:46:26,Cash,🍜 Food,,Fruit split,1.76,Expense,,45,NIO,1.76
 03/29/2025 6:07:14,Cash,🍜 Food,,Pupusas,3.92,Expense,,100,NIO,3.92
 03/29/2025 6:07:06,Cash,🍜 Food,,Lunch dona,5.88,Expense,,150,NIO,5.88
 03/28/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 03/28/2025 23:00:00,Card,🤑 Allowance,,Budget equalizer central america,10,Income,,10,CAD,10
-03/28/2025 11:01:19,Cash,🏠 Accommodation,,Solid surf,14.44,Expense,,10,USD,14.44
+03/28/2025 11:01:19,Cash,🏠 Accommodation,,Solid surf dorm,14.44,Expense,,10,USD,14.44
 03/28/2025 11:00:51,Cash,🌎 Adventure,,Surf rental,14.44,Expense,,10,USD,14.44
 03/28/2025 11:00:05,Cash,🍜 Food,,Pupusas,5.88,Expense,,150,NIO,5.88
 03/28/2025 9:46:21,Cash,🍜 Food,,Lunch groceries,3.92,Expense,,100,NIO,3.92
@@ -1007,7 +1008,7 @@
 03/27/2025 13:18:01,Cash,🍜 Food,,3 egg breaky + ramen,1.84,Expense,,47,NIO,1.84
 03/27/2025 9:46:02,Cash,🍜 Food,,Fruit split,1.76,Expense,,45,NIO,1.76
 03/27/2025 7:52:52,Cash,🌎 Adventure,,Surf rental,14.44,Expense,,10,USD,14.44
-03/27/2025 7:52:41,Cash,🏠 Accommodation,,Solid surf,14.44,Expense,,10,USD,14.44
+03/27/2025 7:52:41,Cash,🏠 Accommodation,,Solid surf dorm,14.44,Expense,,10,USD,14.44
 03/26/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 03/26/2025 23:00:00,Card,🤑 Allowance,,Budget equalizer central america,10,Income,,10,CAD,10
 03/26/2025 15:13:35,Cash,🍜 Food,,Coke,0.98,Expense,,25,NIO,0.98
@@ -1015,7 +1016,7 @@
 03/26/2025 15:13:27,Cash,🍜 Food,,Peanuts,1.02,Expense,,26,NIO,1.02
 03/26/2025 15:13:19,Cash,🍜 Food,,Ramen,0.98,Expense,,25,NIO,0.98
 03/26/2025 14:12:02,Cash,🌎 Adventure,,Surf rental,14.44,Expense,,10,USD,14.44
-03/26/2025 14:11:54,Cash,🏠 Accommodation,,Solid surf,14.44,Expense,,10,USD,14.44
+03/26/2025 14:11:54,Cash,🏠 Accommodation,,Solid surf dorm,14.44,Expense,,10,USD,14.44
 03/26/2025 10:55:31,Cash,🚖 Transport,,Ride to transito,11.76,Expense,,300,NIO,11.76
 03/26/2025 9:45:39,Cash,🍜 Food,,Fruit split,1.76,Expense,,45,NIO,1.76
 03/25/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -1090,13 +1091,13 @@
 03/18/2025 21:20:53,Cash,🍜 Food,,Tacos,6.66,Expense,,170,NIO,6.66
 03/18/2025 16:38:38,Cash,🚖 Transport,,Transport back to grenada,1.57,Expense,,40,NIO,1.57
 03/18/2025 15:50:43,Cash,🚖 Transport,,Transport to Laguna de apoyo,1.18,Expense,,30,NIO,1.18
-03/18/2025 15:29:59,Cash,🏠 Accommodation,,Hostal azul,20.21,Expense,,14,USD,20.21
+03/18/2025 15:29:59,Cash,🏠 Accommodation,,Hostel azul dorm,20.21,Expense,,14,USD,20.21
 03/18/2025 15:22:03,Cash,🌎 Adventure,,Day pass Laguna de apoyo,7.33,Expense,,187,NIO,7.33
 03/17/2025 23:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 03/17/2025 23:00:00,Card,🤑 Allowance,,Budget equalizer central america,10,Income,,10,CAD,10
 03/17/2025 17:40:04,Cash,🍜 Food,,Brownie + icecream,3.14,Expense,,80,NIO,3.14
 03/17/2025 17:40:04,Cash,🍜 Food,,Icecream cone,1.37,Expense,,35,NIO,1.37
-03/17/2025 17:39:40,Cash,🏠 Accommodation,,Hostal azul (free pasta night),20.21,Expense,,14,USD,20.21
+03/17/2025 17:39:40,Cash,🏠 Accommodation,,Hostel azul dorm (free pasta night),20.21,Expense,,14,USD,20.21
 03/17/2025 13:36:44,Cash,🚖 Transport,,Managua to granada,2.74,Expense,,70,NIO,2.74
 03/17/2025 13:11:36,Cash,🍜 Food,,Groceries for pasta split,3.02,Expense,,77,NIO,3.02
 03/17/2025 11:26:46,Cash,🚖 Transport,,Collectivo to managua,3.14,Expense,,80,NIO,3.14
@@ -1176,7 +1177,7 @@
 03/06/2025 13:36:07,Cash,🍜 Food,,Panadería bread,0.92,Expense,,5,GTQ,0.92
 03/06/2025 13:35:55,Cash,🍜 Food,,Tacos,6.45,Expense,,35,GTQ,6.45
 03/06/2025 12:12:19,Card,🍜 Food,,Icecream,1.84,Expense,,10,GTQ,1.84
-03/06/2025 22:00:00,Cash,🏠 Accommodation,,Playa de la fuente,16.58,Expense,,90,GTQ,16.58
+03/06/2025 22:00:00,Cash,🏠 Accommodation,,Playa de la fuente dorm,16.58,Expense,,90,GTQ,16.58
 03/05/2025 22:00:00,Card,🤑 Allowance,,Budget equalizer central america,10,Income,,10,CAD,10
 03/05/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 03/05/2025 19:15:06,Cash,🍜 Food,,Icecream,1.29,Expense,,7,GTQ,1.29
@@ -1202,7 +1203,7 @@
 03/03/2025 20:16:16,Cash,🍜 Food,,Ramen noodles,1.11,Expense,,6,GTQ,1.11
 03/03/2025 6:55:46,Card,👬🏻 Social Life,,Phone plan top up,6.45,Expense,,35,GTQ,6.45
 03/03/2025 6:55:46,Cash,🍜 Food,,Almuerzo,8.84,Expense,,48,GTQ,8.84
-03/03/2025 6:55:46,Cash,🏠 Accommodation,,San sebastian antigua,17.5,Expense,,95,GTQ,17.5
+03/03/2025 6:55:46,Cash,🏠 Accommodation,,San sebastian antigua pod bed,17.5,Expense,,95,GTQ,17.5
 03/03/2025 6:55:46,Card,🌎 Adventure,,Acatenango hike,55.26,Expense,,300,GTQ,55.26
 03/02/2025 22:00:00,Card,🤑 Allowance,,Budget equalizer central america,10,Income,,10,CAD,10
 03/02/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -1212,7 +1213,7 @@
 03/01/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 03/01/2025 17:19:56,Cash,🍜 Food,,Brownie,3.13,Expense,,17,GTQ,3.13
 03/01/2025 17:19:45,Cash,🍜 Food,,Hike snacks,5.71,Expense,,31,GTQ,5.71
-03/01/2025 15:27:57,Cash,🏠 Accommodation,,San sebastian antigua,20.26,Expense,,110,GTQ,20.26
+03/01/2025 15:27:57,Cash,🏠 Accommodation,,San sebastian antigua pod bed,20.26,Expense,,110,GTQ,20.26
 03/01/2025 11:27:35,Cash,🎁 Gift,,Mayan eb pendant,5.53,Expense,,30,GTQ,5.53
 03/01/2025 11:27:35,Cash,🍜 Food,,El rincón lunch,7.37,Expense,,40,GTQ,7.37
 03/01/2025 11:27:35,Cash,🖼 Culture,,Antigua walking tour,9.21,Expense,,50,GTQ,9.21
@@ -1220,7 +1221,7 @@
 02/28/2025 19:26:00,Cash,🍜 Food,,Icecream,3.87,Expense,,21,GTQ,3.87
 02/28/2025 19:25:50,Cash,🍜 Food,,Adobado dinner,6.45,Expense,,35,GTQ,6.45
 02/28/2025 22:00:00,Cash,🚖 Transport,,Chicken buses (4),8.84,Expense,,48,GTQ,8.84
-02/28/2025 22:00:00,Cash,🏠 Accommodation,,San sebastian antigua,20.26,Expense,,110,GTQ,20.26
+02/28/2025 22:00:00,Cash,🏠 Accommodation,,San sebastian antigua pod bed,20.26,Expense,,110,GTQ,20.26
 02/28/2025 22:00:00,Cash,🍜 Food,,Chicken sandwich,10.13,Expense,,55,GTQ,10.13
 02/27/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 02/27/2025 20:50:16,Cash,🚖 Transport,,Boat to Santa cruz,4.61,Expense,,25,GTQ,4.61
@@ -1249,7 +1250,7 @@
 02/24/2025 6:41:51,Cash,🍜 Food,,Tacos,4.61,Expense,,25,GTQ,4.61
 02/24/2025 6:41:51,Cash,🍜 Food,,Cerdo almuerzo,7.37,Expense,,40,GTQ,7.37
 02/24/2025 6:41:51,Cash,🚖 Transport,,Boat to San marcos,4.61,Expense,,25,GTQ,4.61
-02/24/2025 6:41:51,Cash,🏠 Accommodation,,Iguana perdida,27.43,Expense,,19,USD,27.43
+02/24/2025 6:41:51,Cash,🏠 Accommodation,,Iguana perdida dorm,27.43,Expense,,19,USD,27.43
 02/23/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 02/23/2025 15:32:24,Cash,🍜 Food,,Split lunch plate,4.24,Expense,,23,GTQ,4.24
 02/23/2025 15:32:10,Cash,🍜 Food,,Split breakfast plate,3.68,Expense,,20,GTQ,3.68
@@ -1259,7 +1260,7 @@
 02/23/2025 8:57:33,Cash,🍜 Food,,Tacos,5.71,Expense,,31,GTQ,5.71
 02/23/2025 8:57:21,Cash,🚖 Transport,,Tuktuk,1.29,Expense,,7,GTQ,1.29
 02/23/2025 22:00:00,Cash,🚖 Transport,,Chicken buses (6),7.18,Expense,,39,GTQ,7.18
-02/23/2025 22:00:00,Cash,🏠 Accommodation,,Iguana perdida,27.43,Expense,,19,USD,27.43
+02/23/2025 22:00:00,Cash,🏠 Accommodation,,Iguana perdida dorm,27.43,Expense,,19,USD,27.43
 02/22/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 02/22/2025 21:14:34,Cash,🏠 Accommodation,,Panajachel hostel,9.76,Expense,,53,GTQ,9.76
 02/22/2025 21:14:34,Cash,🍜 Food,,Asado split,3.5,Expense,,19,GTQ,3.5
@@ -1472,12 +1473,12 @@
 01/18/2025 19:17:23,Cash,🍜 Food,,Mora + maracuyá icecream,1.44,Expense,,1,USD,1.44
 01/18/2025 19:17:07,Cash,🍜 Food,,Empanada dinner,2.17,Expense,,1.5,USD,2.17
 01/18/2025 13:55:26,Card,🌎 Adventure,,Gordon's rock dive,259.9,Expense,,180,USD,259.9
-01/18/2025 13:55:26,Cash,🏠 Accommodation,,Hostal vista la mar,23.1,Expense,,16,USD,23.1
+01/18/2025 13:55:26,Cash,🏠 Accommodation,,Hostel vista la mar,23.1,Expense,,16,USD,23.1
 01/17/2025 22:00:00,Card,🤑 Allowance,,Additional Galapagos budget,40,Income,,40,CAD,40
 01/17/2025 22:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 01/17/2025 21:00:00,Cash,🍜 Food,,5 eggs,1.44,Expense,,1,USD,1.44
 01/17/2025 14:47:51,Cash,👬🏻 Social Life,,Phone plan,21.66,Expense,,15,USD,21.66
-01/17/2025 13:55:07,Cash,🏠 Accommodation,,Hostal vista la mar,23.1,Expense,,16,USD,23.1
+01/17/2025 13:55:07,Cash,🏠 Accommodation,,Hostel vista la mar,23.1,Expense,,16,USD,23.1
 01/17/2025 11:33:30,Card,🚖 Transport,,Bus from airport,7.22,Expense,,5,USD,7.22
 01/17/2025 11:10:38,Cash,🌎 Adventure,,Galapagos entrance fee,288.77,Expense,,200,USD,288.77
 01/17/2025 7:06:06,Card,🌎 Adventure,,Transit control,28.88,Expense,,20,USD,28.88
@@ -1502,7 +1503,7 @@
 12/18/2024 5:56:58,Card,🚖 Transport,,Mototaxi that brought me to the wrong place (the uber),2.98,Expense,,12,BRL,2.98
 12/17/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 12/17/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
-12/17/2024 17:28:38,Card,🏠 Accommodation,,Aquarela do leme,29.26,Expense,,118,BRL,29.26
+12/17/2024 17:28:38,Card,🏠 Accommodation,,Aquarela do leme dorm,29.26,Expense,,118,BRL,29.26
 12/17/2024 14:17:42,Card,🍜 Food,,Dinner,2.85,Expense,,11.5,BRL,2.85
 12/17/2024 13:05:00,Card,🧥 Apparel,,Bikini bottom,4.96,Expense,,20,BRL,4.96
 12/17/2024 13:04:38,Cash,🎁 Gift,,Cachaças for the boys,6.94,Expense,,28,BRL,6.94
@@ -1513,7 +1514,7 @@
 12/17/2024 6:12:33,Cash,🚖 Transport,,Mototaxis,9.66,Expense,,39,BRL,9.66
 12/16/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 12/16/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
-12/16/2024 17:28:07,Card,🏠 Accommodation,,Aquarela do leme,29.26,Expense,,118,BRL,29.26
+12/16/2024 17:28:07,Card,🏠 Accommodation,,Aquarela do leme dorm,29.26,Expense,,118,BRL,29.26
 12/16/2024 14:44:30,Card,🍜 Food,,Dinner groceries,4.46,Expense,,18,BRL,4.46
 12/16/2024 8:28:13,Card,🍜 Food,,Milkshake,4.96,Expense,,20,BRL,4.96
 12/16/2024 6:54:06,Card,🎁 Gift,,Necklace for krysia,2.48,Expense,,10,BRL,2.48
@@ -1527,7 +1528,7 @@
 12/15/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 12/15/2024 16:50:45,Card,🍜 Food,,Fancy dinner,26.53,Expense,,107,BRL,26.53
 12/15/2024 15:55:49,Card,🚖 Transport,,Favela mototaxi,2.48,Expense,,10,BRL,2.48
-12/15/2024 15:55:49,Card,🏠 Accommodation,,Aquarela do leme,31.49,Expense,,127,BRL,31.49
+12/15/2024 15:55:49,Card,🏠 Accommodation,,Aquarela do leme dorm,31.49,Expense,,127,BRL,31.49
 12/15/2024 11:30:57,Card,🍜 Food,,Juices,4.46,Expense,,18,BRL,4.46
 12/15/2024 11:30:41,Card,🍜 Food,,Mango,1.24,Expense,,5,BRL,1.24
 12/15/2024 11:30:31,Card,🚖 Transport,,Mototaxis,5.95,Expense,,24,BRL,5.95
@@ -1538,7 +1539,7 @@
 12/14/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 12/14/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 12/14/2024 15:55:13,Card,🚖 Transport,,Mototaxis,11.91,Expense,,48,BRL,11.91
-12/14/2024 15:55:13,Card,🏠 Accommodation,,Aquarela do leme,31.49,Expense,,127,BRL,31.49
+12/14/2024 15:55:13,Card,🏠 Accommodation,,Aquarela do leme dorm,31.49,Expense,,127,BRL,31.49
 12/14/2024 13:13:32,Card,🚖 Transport,,Bus back to rio,23.93,Expense,,96.5,BRL,23.93
 12/14/2024 8:30:18,Cash,🪑 Household,,New screen protector,2.48,Expense,,10,BRL,2.48
 12/14/2024 8:30:07,Cash,🎁 Gift,,Pins,11.16,Expense,,45,BRL,11.16
@@ -1619,27 +1620,27 @@
 12/04/2024 12:04:21,Card,🍜 Food,,Groceries,9.92,Expense,,40,BRL,9.92
 12/04/2024 5:45:19,Card,🍜 Food,,Shit breakfast,8.93,Expense,,36,BRL,8.93
 12/04/2024 5:06:36,Card,🌎 Adventure,,Surf rental,18.1,Expense,,73,BRL,18.1
-12/04/2024 5:06:36,Card,🏠 Accommodation,,Long board paradise,19.34,Expense,,78,BRL,19.34
+12/04/2024 5:06:36,Card,🏠 Accommodation,,Long board paradise dorm,19.34,Expense,,78,BRL,19.34
 12/03/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 12/03/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 12/03/2024 6:13:24,Card,🍜 Food,,Good lunch,7.44,Expense,,30,BRL,7.44
 12/03/2024 6:13:24,Card,🍜 Food,,Açai,6.69,Expense,,27,BRL,6.69
 12/03/2024 6:13:24,Card,🌎 Adventure,,Surf rental,18.1,Expense,,73,BRL,18.1
-12/03/2024 5:06:01,Card,🏠 Accommodation,,Long board paradise,19.34,Expense,,78,BRL,19.34
+12/03/2024 5:06:01,Card,🏠 Accommodation,,Long board paradise dorm,19.34,Expense,,78,BRL,19.34
 12/02/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 12/02/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 12/02/2024 10:53:09,Card,🍜 Food,,Churrasco,3.47,Expense,,14,BRL,3.47
 12/02/2024 10:53:09,Card,🍜 Food,,Almoço exectivo,5.46,Expense,,22,BRL,5.46
 12/02/2024 9:43:27,Card,🌎 Adventure,,Surf board rental (2hrs),17.36,Expense,,70,BRL,17.36
 12/02/2024 9:43:20,Card,🍜 Food,,Açai,3.22,Expense,,13,BRL,3.22
-12/02/2024 4:21:55,Card,🏠 Accommodation,,Long board paradise,19.09,Expense,,77,BRL,19.09
+12/02/2024 4:21:55,Card,🏠 Accommodation,,Long board paradise dorm,19.09,Expense,,77,BRL,19.09
 12/01/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 12/01/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 12/01/2024 16:02:07,Card,🍜 Food,,Espentinhos dinner,4.96,Expense,,20,BRL,4.96
 12/01/2024 11:30:22,Card,🚖 Transport,,Mototaxi to recreio,12.89,Expense,,52,BRL,12.89
 12/01/2024 8:14:29,Card,🍜 Food,,Chips,2.98,Expense,,12,BRL,2.98
 12/01/2024 8:14:29,Card,🍜 Food,,Bus food,3.97,Expense,,16,BRL,3.97
-12/01/2024 4:21:40,Card,🏠 Accommodation,,Long board paradise,19.09,Expense,,77,BRL,19.09
+12/01/2024 4:21:40,Card,🏠 Accommodation,,Long board paradise dorm,19.09,Expense,,77,BRL,19.09
 12/01/2024 4:21:27,Card,🚖 Transport,,Bus to rio,23.56,Expense,,95,BRL,23.56
 11/30/2024 19:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 11/30/2024 19:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -1962,7 +1963,7 @@
 10/19/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 10/19/2024 18:01:46,Card,🖼 Culture,,Capoeira tip,2.98,Expense,,12,BRL,2.98
 10/19/2024 18:01:34,Card,🍜 Food,,Paella,17.11,Expense,,69,BRL,17.11
-10/19/2024 14:17:13,Cash,🏠 Accommodation,,Private room share with benil,16.37,Expense,,66,BRL,16.37
+10/19/2024 14:17:13,Cash,🏠 Accommodation,,Private room with benil,16.37,Expense,,66,BRL,16.37
 10/19/2024 14:16:19,Cash,🌎 Adventure,,Surf rental,12.4,Expense,,50,BRL,12.4
 10/19/2024 14:16:09,Card,🚖 Transport,,Bus to beach,2.98,Expense,,12,BRL,2.98
 10/19/2024 14:15:59,Card,🍜 Food,,Hangover chocolates,2.73,Expense,,11,BRL,2.73
@@ -1970,7 +1971,7 @@
 10/18/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 10/18/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 10/18/2024 14:13:06,Card,🍜 Food,,Breakfast,5.46,Expense,,22,BRL,5.46
-10/18/2024 14:13:06,Card,🏠 Accommodation,,Second itacaré hostel,16.12,Expense,,65,BRL,16.12
+10/18/2024 14:13:06,Card,🏠 Accommodation,,Second itacaré hostel dorm,16.12,Expense,,65,BRL,16.12
 10/18/2024 14:13:06,Cash,🍜 Food,,Cheese,2.48,Expense,,10,BRL,2.48
 10/18/2024 14:13:06,Card,👬🏻 Social Life,,Too many caipirinhas,6.2,Expense,,25,BRL,6.2
 10/18/2024 20:00:00,Cash,🍜 Food,,Falafel dinner,9.92,Expense,,40,BRL,9.92
@@ -1980,7 +1981,7 @@
 10/17/2024 14:21:53,Cash,🍜 Food,,Cheese,2.48,Expense,,10,BRL,2.48
 10/17/2024 8:18:21,Card,🍜 Food,,Mediocre açai,5.95,Expense,,24,BRL,5.95
 10/17/2024 8:18:21,Card,🍜 Food,,Breakfast,5.46,Expense,,22,BRL,5.46
-10/17/2024 7:45:01,Card,🏠 Accommodation,,Second itacaré hostel,16.12,Expense,,65,BRL,16.12
+10/17/2024 7:45:01,Card,🏠 Accommodation,,Second itacaré hostel dorm,16.12,Expense,,65,BRL,16.12
 10/16/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 10/16/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 10/16/2024 15:54:35,Card,👬🏻 Social Life,,Party entry and beers,7.44,Expense,,30,BRL,7.44
@@ -2125,7 +2126,7 @@
 09/28/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 09/28/2024 19:37:34,Card,🍜 Food,,Burger,6.2,Expense,,25,BRL,6.2
 09/28/2024 13:01:57,Card,🍜 Food,,Snacks,6.94,Expense,,28,BRL,6.94
-09/28/2024 13:01:57,Card,🏠 Accommodation,,Personal hostel room,22,Expense,,22,CAD,22
+09/28/2024 13:01:57,Card,🏠 Accommodation,,Private room,22,Expense,,22,CAD,22
 09/28/2024 13:01:23,Cash,🚖 Transport,,Collectivos,2.23,Expense,,9,BRL,2.23
 09/28/2024 13:01:04,Cash,🚖 Transport,,Standing bus room,4.96,Expense,,20,BRL,4.96
 09/28/2024 13:00:42,Card,🚖 Transport,,Mototaxi to ipojuca,5.95,Expense,,24,BRL,5.95
@@ -2184,7 +2185,7 @@
 09/22/2024 16:17:59,Cash,🚖 Transport,,Taxi,3.72,Expense,,15,BRL,3.72
 09/22/2024 14:36:54,Card,🍜 Food,,All you can eat dinner,7.19,Expense,,29,BRL,7.19
 09/22/2024 14:36:44,Card,🍜 Food,,Açai,4.46,Expense,,18,BRL,4.46
-09/22/2024 11:03:38,Card,🏠 Accommodation,,Surfcamp arara,17.11,Expense,,69,BRL,17.11
+09/22/2024 11:03:38,Card,🏠 Accommodation,,Surfcamp arara dorm,17.11,Expense,,69,BRL,17.11
 09/22/2024 11:03:38,Cash,🍜 Food,,Beach snacks,4.96,Expense,,20,BRL,4.96
 09/22/2024 11:03:38,Card,🌎 Adventure,,Surf board rental,8.68,Expense,,35,BRL,8.68
 09/21/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
@@ -2192,7 +2193,7 @@
 09/21/2024 16:56:34,Card,Other,,Bathroom,0.99,Expense,,4,BRL,0.99
 09/21/2024 16:56:34,Card,👬🏻 Social Life,,Caipirinhas,11.16,Expense,,45,BRL,11.16
 09/21/2024 16:56:34,Cash,🍜 Food,,Hot dog,1.49,Expense,,6,BRL,1.49
-09/21/2024 16:56:34,Card,🏠 Accommodation,,Surfcamp arara,17.11,Expense,,69,BRL,17.11
+09/21/2024 16:56:34,Card,🏠 Accommodation,,Surfcamp arara dorm,17.11,Expense,,69,BRL,17.11
 09/21/2024 16:10:07,Card,👬🏻 Social Life,,Beer,3.72,Expense,,15,BRL,3.72
 09/21/2024 16:09:57,Card,🍜 Food,,Pizza,6.2,Expense,,25,BRL,6.2
 09/21/2024 14:34:10,Card,🍜 Food,,Pre dinner snack,2.48,Expense,,10,BRL,2.48
@@ -2206,14 +2207,14 @@
 09/20/2024 4:33:40,Card,🍜 Food,,Dinner,9.42,Expense,,38,BRL,9.42
 09/20/2024 4:33:40,Cash,🍜 Food,,Suco,2.48,Expense,,10,BRL,2.48
 09/20/2024 4:33:40,Card,🌎 Adventure,,Surf trip,79.35,Expense,,320,BRL,79.35
-09/20/2024 4:33:40,Card,🏠 Accommodation,,Surfcamp arara,14.88,Expense,,60,BRL,14.88
+09/20/2024 4:33:40,Card,🏠 Accommodation,,Surfcamp arara dorm,14.88,Expense,,60,BRL,14.88
 09/19/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 09/19/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 09/19/2024 15:51:17,Card,👬🏻 Social Life,,Caparinha,4.96,Expense,,20,BRL,4.96
 09/19/2024 15:51:17,Card,🧥 Apparel,,Blue bikini top,11.16,Expense,,45,BRL,11.16
 09/19/2024 14:20:11,Card,🍜 Food,,Great all you can eat late lunch,7.44,Expense,,30,BRL,7.44
 09/19/2024 14:20:01,Card,🧥 Apparel,,Red bikini,25.79,Expense,,104,BRL,25.79
-09/19/2024 4:33:07,Card,🏠 Accommodation,,Surfcamp arara,14.88,Expense,,60,BRL,14.88
+09/19/2024 4:33:07,Card,🏠 Accommodation,,Surfcamp arara dorm,14.88,Expense,,60,BRL,14.88
 09/19/2024 4:13:11,Cash,🚖 Transport,,Blabla car to pipa,7.03,Expense,,28,BRL,7.03
 09/18/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 09/18/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -2245,7 +2246,7 @@
 09/15/2024 15:14:09,Card,🍜 Food,,Groceries,10.04,Expense,,40,BRL,10.04
 09/15/2024 11:27:22,Card,🍜 Food,,Açai,2.36,Expense,,9.4,BRL,2.36
 09/15/2024 10:44:21,Card,🚖 Transport,,Mototaxi,2.51,Expense,,10,BRL,2.51
-09/15/2024 10:22:47,Card,🏠 Accommodation,,One bed in morro branco,28.87,Expense,,115,BRL,28.87
+09/15/2024 10:22:47,Card,🏠 Accommodation,,Suite in morro branco,28.87,Expense,,115,BRL,28.87
 09/15/2024 8:32:12,Cash,🚖 Transport,,Bus to beberibe,5.72,Expense,,22.8,BRL,5.72
 09/15/2024 8:32:01,Card,🍜 Food,,Milkshake,4.27,Expense,,17,BRL,4.27
 09/14/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
@@ -2349,7 +2350,7 @@
 09/03/2024 10:12:50,Card,🍜 Food,,Lunch all you can eat thing,15.57,Expense,,62,BRL,15.57
 09/02/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 09/02/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
-09/02/2024 15:46:06,Card,🏠 Accommodation,,Airbnb hostel,21.84,Expense,,87,BRL,21.84
+09/02/2024 15:46:06,Card,🏠 Accommodation,,Airbnb hostel dorm,21.84,Expense,,87,BRL,21.84
 09/02/2024 14:06:14,Card,🍜 Food,,Fruit!,7.68,Expense,,30.6,BRL,7.68
 09/02/2024 13:07:43,Card,🍜 Food,,Vataçoba,9.79,Expense,,39,BRL,9.79
 09/01/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
@@ -2359,11 +2360,11 @@
 09/01/2024 11:16:53,Card,👬🏻 Social Life,,Beers,3.77,Expense,,15,BRL,3.77
 09/01/2024 6:11:48,Card,🚖 Transport,,Boat,5.02,Expense,,20,BRL,5.02
 09/01/2024 3:57:40,Card,🍜 Food,,Breakfast,3.77,Expense,,15,BRL,3.77
-09/01/2024 3:56:48,Card,🏠 Accommodation,,Airbnb hostel,23.35,Expense,,93,BRL,23.35
+09/01/2024 3:56:48,Card,🏠 Accommodation,,Airbnb hostel dorm,23.35,Expense,,93,BRL,23.35
 08/31/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 08/31/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 08/31/2024 17:54:44,Cash,🍜 Food,,Dinner,10.04,Expense,,40,BRL,10.04
-08/31/2024 17:54:44,Card,🏠 Accommodation,,Airbnb hostel,23.35,Expense,,93,BRL,23.35
+08/31/2024 17:54:44,Card,🏠 Accommodation,,Airbnb hostel dorm,23.35,Expense,,93,BRL,23.35
 08/31/2024 16:04:31,Card,🍜 Food,,Chocos,2.26,Expense,,9,BRL,2.26
 08/31/2024 15:38:36,Card,🚖 Transport,,Mototaxi,1.88,Expense,,7.5,BRL,1.88
 08/31/2024 13:32:26,Card,🚖 Transport,,Mototaxi,1.63,Expense,,6.5,BRL,1.63
@@ -2377,7 +2378,7 @@
 08/30/2024 20:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 08/30/2024 20:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 08/30/2024 18:02:30,Card,🍜 Food,,Amazonia na cuia,15.44,Expense,,61.5,BRL,15.44
-08/30/2024 17:54:08,Card,🏠 Accommodation,,Airbnb hostel,23.35,Expense,,93,BRL,23.35
+08/30/2024 17:54:08,Card,🏠 Accommodation,,Airbnb hostel dorm,23.35,Expense,,93,BRL,23.35
 08/30/2024 16:19:10,Card,🍜 Food,,Breakfast + snacks,3.77,Expense,,15,BRL,3.77
 08/30/2024 15:44:00,Card,🚖 Transport,,Uber 3 blocks lol,1.63,Expense,,6.5,BRL,1.63
 08/30/2024 3:21:20,Card,🚖 Transport,,Uber from airport,7.78,Expense,,31,BRL,7.78
@@ -2461,13 +2462,13 @@
 08/19/2024 20:23:56,Cash,🍜 Food,,Acai,3.26,Expense,,13,BRL,3.26
 08/19/2024 19:41:07,Card,🍜 Food,,Fancy dinner,17.26,Expense,,68.75,BRL,17.26
 08/19/2024 13:32:43,Cash,🍜 Food,,Lunch + desert,9.67,Expense,,38.5,BRL,9.67
-08/19/2024 21:00:00,Card,🏠 Accommodation,,Selina bonito,16.57,Expense,,66,BRL,16.57
+08/19/2024 21:00:00,Card,🏠 Accommodation,,Selina bonito dorm,16.57,Expense,,66,BRL,16.57
 08/18/2024 21:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 08/18/2024 21:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 08/18/2024 20:36:56,Card,🍜 Food,,Pasteis,3.77,Expense,,15,BRL,3.77
 08/18/2024 20:36:45,Cash,🍜 Food,,Icecream,2.01,Expense,,8,BRL,2.01
 08/18/2024 17:24:06,Card,🚖 Transport,,Transport to tour,12.55,Expense,,50,BRL,12.55
-08/18/2024 16:40:19,Card,🏠 Accommodation,,Selina bonito,16.7,Expense,,66.5,BRL,16.7
+08/18/2024 16:40:19,Card,🏠 Accommodation,,Selina bonito dorm,16.7,Expense,,66.5,BRL,16.7
 08/18/2024 16:40:19,Card,🌎 Adventure,,Boia cross and avorismo tour,59,Expense,,235,BRL,59
 08/18/2024 5:45:37,Card,🍜 Food,,Breakfast + lunch sandys,4.27,Expense,,17,BRL,4.27
 08/17/2024 21:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
@@ -2475,7 +2476,7 @@
 08/17/2024 20:25:51,Card,🌎 Adventure,,Gruta do lago azul,27.62,Expense,,110,BRL,27.62
 08/17/2024 20:25:51,Cash,🚖 Transport,,Transport to tour,21.34,Expense,,85,BRL,21.34
 08/17/2024 12:05:52,Card,🍜 Food,,Frutas,8.29,Expense,,33,BRL,8.29
-08/17/2024 8:09:17,Card,🏠 Accommodation,,Selina bonito,16.7,Expense,,66.5,BRL,16.7
+08/17/2024 8:09:17,Card,🏠 Accommodation,,Selina bonito dorm,16.7,Expense,,66.5,BRL,16.7
 08/17/2024 7:31:36,Card,🍜 Food,,Bakery breakfast,1.26,Expense,,5,BRL,1.26
 08/16/2024 21:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 08/16/2024 21:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -2483,10 +2484,10 @@
 08/16/2024 20:25:22,Cash,🍜 Food,,Whoops a lot of acai,9.54,Expense,,38,BRL,9.54
 08/16/2024 6:39:49,Cash,🌎 Adventure,,Rio da prata floatacão,90.39,Expense,,360,BRL,90.39
 08/16/2024 6:39:49,Cash,🚖 Transport,,Transport to tour,25.11,Expense,,100,BRL,25.11
-08/16/2024 6:39:49,Cash,🏠 Accommodation,,Selina bonito,14.44,Expense,,57.5,BRL,14.44
+08/16/2024 6:39:49,Cash,🏠 Accommodation,,Selina bonito dorm,14.44,Expense,,57.5,BRL,14.44
 08/15/2024 21:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 08/15/2024 21:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
-08/15/2024 6:39:32,Cash,🏠 Accommodation,,Selina bonito,14.44,Expense,,57.5,BRL,14.44
+08/15/2024 6:39:32,Cash,🏠 Accommodation,,Selina bonito dorm,14.44,Expense,,57.5,BRL,14.44
 08/15/2024 4:46:22,Cash,🚖 Transport,,Bus to bonito,38.16,Expense,,152,BRL,38.16
 08/14/2024 21:00:00,Card,🤑 Allowance,,Additional Brazil budget,20,Income,,20,CAD,20
 08/14/2024 21:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
@@ -2565,7 +2566,7 @@
 08/03/2024 9:20:41,Cash,👬🏻 Social Life,,Drinks,15.19,Expense,,77,BOB,15.19
 08/03/2024 9:20:41,Cash,💄 Beauty,,Hair clip and ties,1.97,Expense,,10,BOB,1.97
 08/03/2024 9:20:14,Cash,🧥 Apparel,,Pants fix again,3.95,Expense,,20,BOB,3.95
-08/03/2024 9:20:01,Cash,🏠 Accommodation,,Villa oro,13.02,Expense,,66,BOB,13.02
+08/03/2024 9:20:01,Cash,🏠 Accommodation,,Villa oro dorm,13.02,Expense,,66,BOB,13.02
 08/03/2024 9:19:34,Cash,🖼 Culture,,Patch + embroidery thread,1.97,Expense,,10,BOB,1.97
 08/03/2024 9:19:24,Cash,🍜 Food,,Pie,1.97,Expense,,10,BOB,1.97
 08/03/2024 8:14:51,Cash,🍜 Food,,El solar,19.73,Expense,,100,BOB,19.73
@@ -2576,7 +2577,7 @@
 08/02/2024 14:43:16,Cash,🍜 Food,,Water,1.18,Expense,,6,BOB,1.18
 08/02/2024 14:42:38,Cash,🖼 Culture,,Walking tour,4.93,Expense,,25,BOB,4.93
 08/02/2024 9:42:21,Cash,🍜 Food,,Cafe typica,8.09,Expense,,41,BOB,8.09
-08/02/2024 6:46:38,Cash,🏠 Accommodation,,Villa oro,13.02,Expense,,66,BOB,13.02
+08/02/2024 6:46:38,Cash,🏠 Accommodation,,Villa oro dorm,13.02,Expense,,66,BOB,13.02
 08/02/2024 6:46:07,Cash,🚖 Transport,,Collectivo,1.97,Expense,,10,BOB,1.97
 08/01/2024 21:00:00,Card,🤑 Allowance,,,60,Income,,60,CAD,60
 08/01/2024 17:58:15,Cash,👬🏻 Social Life,,Phone plan 10 days,11.84,Expense,,60,BOB,11.84
@@ -2756,4 +2757,4 @@
 07/01/2024 15:40:26,Cash,🍜 Food,,Salchipapas,3.95,Expense,,11,PEN,3.95
 07/01/2024 15:40:26,Cash,🚖 Transport,,Bus to puno,14.37,Expense,,40,PEN,14.37
 07/01/2024 15:40:26,Card,🍜 Food,,Weird Llama ravioli,13.65,Expense,,38,PEN,13.65
-07/01/2024 4:44:03,Cash,🚖 Transport,,Weird puno hostel,14.73,Expense,,41,PEN,14.73
+07/01/2024 4:44:03,Cash,🏠 Accommodation,,Weird puno hostel,14.73,Expense,,41,PEN,14.73

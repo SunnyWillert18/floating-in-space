@@ -1,4 +1,4 @@
-activity,type,date,location,country,length (days),explaination
+activity,type,date,location,country,length_in_days,explaination
 tayrona park,hiking,03/13/2024,Tayrona,Colombia,2,moderate walk into a national park with beautiful beaches where I was able to rent a hammock and stay for a night
 el peñón de guatapé,hiking,03/19/2024,Guatapé,Colombia,1,walked up a bullet shaped rock and checked out a town
 checkmat bjj,jiu jitsu,03/21/2024,Medellín,Colombia,0.1,took a no gi bjj class at a nice gym in the heart of the city
@@ -13,9 +13,9 @@ cali street party,dancing,04/12/2024,Cali,Colombia,0.25,"weekly street party in 
 san agustin tomb park,culture,04/15/2024,San Agustín,Colombia,0.25,archeological site of the tombs from the mysterious indigenous tribes from the area
 santuario las lajas,hiking,04/17/2024,Ipiales,Colombia,0.25,big bloody church in the middle of a canyon
 bird watching trails,hiking,04/22/2024,Mindo,Ecuador,0.25,small hiking trails through properties in mindo that apparently you can see birds on
-seven waterfalls bike,biking,04/25/2024,Baños,Ecuador,1,biking along the main highway towards the amazon where there are mountains and canyons with stunning waterfalls
-rock climbing,rock climbing,04/27/2024,Baños,Ecuador,0.5,rock climbing along the side of the pastaza river. fun!
-waterfall and cliff jumping,swimming,04/29/2024,Baños,Ecuador,1,hangout near the pastaza river swimming and jumping on shrooms
+seven waterfalls bike,adventure,04/25/2024,Baños,Ecuador,1,biking along the main highway towards the amazon where there are mountains and canyons with stunning waterfalls
+rock climbing,adventure,04/27/2024,Baños,Ecuador,0.5,rock climbing along the side of the pastaza river. fun!
+waterfall and cliff jumping,relaxing,04/29/2024,Baños,Ecuador,1,hangout near the pastaza river swimming and jumping on shrooms
 predator bjj,jiu jitsu,04/30/2024,Baños,Ecuador,0.1,tiny gym in the town for bjj where i mostly just fought kids
 predator bjj,jiu jitsu,05/02/2024,Baños,Ecuador,0.1,seminar from a really good colombian black belt. wore a child size gi
 surfing,surfing,05/13/2024,Mancora,Peru,0.25,surfing the small point break in mancora
@@ -28,7 +28,7 @@ salkantay trek,hiking,06/17/2024,Cusco,Peru,4,"the cheaper trekking way to get t
 machu picchu,hiking,06/21/2024,Aguas Calientes,Peru,1,ponchu picchu
 inti raymi,culture,06/23/2024,Cusco,Peru,0.5,winter solstice celebration of the incas
 colca canyon,hiking,06/28/2024,Arequipa,Peru,3,"hike into, around and out of the third deepest land canyon in the world"
-piraí vaca concert,music,08/02/2024,Sucre,Bolivia,0.25,bolivias best guitar player absolutely ripping. loves playing cold play
+piraí vaca concert,culture,08/02/2024,Sucre,Bolivia,0.25,bolivias best guitar player absolutely ripping. loves playing cold play
 motorcycle waterfall ride,motorcycle,08/10/2024,Samaipata,Bolivia,1,rented motorcycles to ride through the valley and see a beautiful waterfall
 campo grande aquarium,wildlife,08/21/2024,Campo Grande,Brasil,0.25,there was a free aquarium in the middle of the city that was lovely to walk through
 brasilia oscar neimeyer architecture tour,culture,08/23/2024,Brasília,Brasil,0.5,walking around the most famous buildings in the city
@@ -38,7 +38,7 @@ sunset ride to pequeno lençois,motorcycle,09/04/2024,Barreirinhas,Brasil,0.25,c
 rock with a hole in it,hiking,09/11/2024,Jericoacoara,Brasil,0.5,"walk up a hill to see dunes, down to the ocean to see a rock and along a beach"
 lagoa paraiso,relaxing,09/12/2024,Jericoacoara,Brasil,0.5,hung out at a very windy dune surrounded late. napped on a beach
 festa fórro psycodelico,dancing,09/12/2024,Jericoacoara,Brasil,0.25,traditional music and dancing from the north east set to glow in the dark
-planeterium,science,09/13/2024,Fortaleza,Brasil,0.25,mediocre planetarium show.
+planeterium,relaxing,09/13/2024,Fortaleza,Brasil,0.25,mediocre planetarium show.
 morro branco,hiking,09/15/2024,Morro Branco,Brasil,0.5,walked along the dunes and in the eroded labyrinth
 praia madeiro surfing,surfing,09/21/2024,Pipa,Brasil,0.5,"relaxing, smoking and surfing at the beach"
 praia madeiro surfing,surfing,09/22/2024,Pipa,Brasil,0.5,"relaxing, smoking and surfing at the beach"
@@ -55,7 +55,7 @@ ktg bjj,jiu jitsu,11/11/2024,Belo Horizonte,Brasil,0.1,bjj class at my favorite 
 inhotim,culture,11/13/2024,Belo Horizonte,Brasil,1,a famous open air art gallery spread across multiple acres of land
 ktg bjj,jiu jitsu,11/14/2024,Belo Horizonte,Brasil,0.1,bjj class at my favorite gym in brasil. lovely people
 mirante dos canions,hiking,11/18/2024,Capitólio,Brasil,0.5,small little park that has a nice look out point over a canyon and some waterfalls
-fluminense futebol match,sports,11/22/2024,Rio de Janeiro,Brasil,0.25,went to a big futebol match in the maracana stadium. what a wild time
+fluminense futebol match,culture,11/22/2024,Rio de Janeiro,Brasil,0.25,went to a big futebol match in the maracana stadium. what a wild time
 christ the redeemer,culture,11/25/2024,Rio de Janeiro,Brasil,0.5,went the famous big jesus
 pedra do sal,dancing,11/25/2024,Rio de Janeiro,Brasil,0.25,famous street party in the center of rio
 praia lopez mendes,hiking,11/27/2024,Ilha grande,Brasil,1,hiked around part of the island to see some cute beaches and the most beautiful one on the island
@@ -83,15 +83,15 @@ concha de perla,snorkeling,02/03/2025,Isabela,Ecuador,0.1,short snorkel and walk
 outside concha de perla,snorkeling,02/05/2025,Isabela,Ecuador,0.1,Leas last snorkel. brought her outside concha
 outside concha de perla,snorkeling,02/06/2025,Isabela,Ecuador,0.25,snorkeling with the whole group out past concha. swam with a shark
 concha de perla,snorkeling,02/07/2025,Isabela,Ecuador,0.1,snorkel to see a pile of sea pancakes
-ceviche making,food,02/07/2025,Isabela,Ecuador,0.25,learned how to make some ceviche with the local guys
+ceviche making,culture,02/07/2025,Isabela,Ecuador,0.25,learned how to make some ceviche with the local guys
 muelle de tijeretas,snorkeling,02/10/2025,San Cristobal,Ecuador,0.25,watched some sea lions play
 muelle de tijeretas,snorkeling,02/11/2025,San Cristobal,Ecuador,0.25,played with a whole family of sea lions
 la loberia,relaxing,02/12/2025,San Cristobal,Ecuador,0.5,walked in the heat to visit a mediocre beach to hang out at
 muelle de tijeretas,snorkeling,02/13/2025,San Cristobal,Ecuador,0.25,gitta and i swam with more sea lions and gave one a lemon to play with
-semuc champey,relaxing ,02/21/2025,Lanquin,Guatemala,0.5,hanging out at a natural bridge covered by natural spring fed pools
+semuc champey,relaxing,02/21/2025,Lanquin,Guatemala,0.5,hanging out at a natural bridge covered by natural spring fed pools
 chichicastenango market,culture,02/23/2025,Chichicastenango,Guatemala,0.5,went to the biggest market in guatemala to wander around
-paddle boarding,water sports,02/25/2025,San Pedro de la laguna,Guatemala,0.1,paddle boarding to see volcano atitlan and relax in the sun
-paddle boarding,water sports,02/28/2025,Santa Cruz de la laguna,Guatemala,0.1,sunrise paddle boarding session that ended in bad winds and a boat having to save two girls in the water
+paddle boarding,kayaking,02/25/2025,San Pedro de la laguna,Guatemala,0.1,paddle boarding to see volcano atitlan and relax in the sun
+paddle boarding,kayaking,02/28/2025,Santa Cruz de la laguna,Guatemala,0.1,sunrise paddle boarding session that ended in bad winds and a boat having to save two girls in the water
 morning yoga,yoga,02/28/2025,Santa Cruz de la laguna,Guatemala,0.1,calm morning led yoga practice to relax after the chaos
 snorkeling at bando beach,snorkeling,03/09/2025,Utila,Honduras,0.1,"really warm water and lots of sea grass before seeingsome dead coral, then live coral and a beautiful blue drop off"
 snorkeling at airport caves,snorkeling,03/10/2025,Utila,Honduras,0.1,terrible walk into the water and then some lovely coral reefs and fish
@@ -108,7 +108,7 @@ kizzie yoga,yoga,03/28/2025,El Transito,Nicaragua,0.1,relaxing yoga session with
 el transito surfing,surfing,03/28/2025,El Transito,Nicaragua,0.25,nice long session enjoying the chill waves and non crushing sets. Caught a few nice ones. piece of shit board that was already a bit broken broke more. 
 kizzie yoga,yoga,03/29/2025,El Transito,Nicaragua,0.1,relaxing yoga session with some breath work after
 kizzie yoga,yoga,03/30/2025,El Transito,Nicaragua,0.1,relaxing yoga session with some breath work after
-espíritu de la montaña,camping,04/01/2025,La Unión,El Salvador,0.5,"camping on the top of volcán conchagua for the night to enjoy the view of the 3 countries, the stars and the cloud covered sunrise"
+espíritu de la montaña,nature,04/01/2025,La Unión,El Salvador,0.5,"camping on the top of volcán conchagua for the night to enjoy the view of the 3 countries, the stars and the cloud covered sunrise"
 labarinto,adventure,04/03/2025,Apaneca,El Salvador,0.1,hedge maze that I finished in 25min. was super fun!
 nahuizalco night market,culture,04/03/2025,Nahuizalco,El Salvador,0.25,night market with people from the bambu hostel and the lovely hostel owner luis!
 el zonte surfing,surfing,04/09/2025,El Zonte,El Salvador,0.25,morning surf as emotional support and eating sets on my head. luca's extra board
